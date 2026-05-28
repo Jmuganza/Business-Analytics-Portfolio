@@ -70,7 +70,7 @@ I combine analytical precision with clear business communication, developed thro
 
 **Skills Demonstrated:** Customer Analytics · Financial Data Analysis · Segmentation · KPI Reporting · Dashboard Development · Data Storytelling
 
-📂 [View Project Files](./wells_forgo_group_project.xlsx)
+📂 [View Project Files](./Wellsfargo.xlsx)
 
 ---
 
