@@ -76,7 +76,7 @@ I combine analytical precision with clear business communication, developed thro
 
 ### 2. 🎓 CBU Career Center — Fall 2025 Appointment Analytics Dashboard
 
-![Career Center Dashboard](assets/Dashborad_1.png)
+![Career Center Dashboard](assets/Dashborad1.png)
 
 > Supporting pivot table analysis:
 
