@@ -1,0 +1,249 @@
+<div align="center">
+
+<img src="assets/Portfolio_photo.jpeg" width="160" style="border-radius: 50%;" alt="Joseph Muganza"/>
+
+# Joseph Muganza
+### Business Analytics | Data Storytelling | Dashboard Development
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseph--muganza-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-muganza)
+[![Email](https://img.shields.io/badge/Email-josephmuganza2%40yahoo.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:josephmuganza2@yahoo.com)
+[![Phone](https://img.shields.io/badge/Phone-(951)%20333--8336-25D366?style=flat&logo=whatsapp&logoColor=white)]()
+[![Location](https://img.shields.io/badge/Location-Riverside%2C%20CA-34A853?style=flat&logo=googlemaps&logoColor=white)]()
+
+</div>
+
+---
+
+## 👤 About Me
+
+I'm a Master of Business Analytics candidate at California Baptist University with hands-on experience transforming raw operational data into executive-ready dashboards and actionable business insights. My work spans customer behavior analysis, career services operational reporting, and student engagement intelligence — all built in Microsoft Excel using Pivot Tables, Power Query, and custom chart design.
+
+I combine analytical precision with clear business communication, developed through real-world roles at Amazon, Behavior Frontiers, and CBU's Career Center. My goal is to bridge the gap between data and decision-making.
+
+**Portfolio focus areas:**
+- 📊 KPI Dashboard Development
+- 👥 Customer & Student Behavior Analytics
+- 📈 Operational & Engagement Reporting
+- 🗺️ Data Storytelling & Business Intelligence
+
+---
+
+## 🛠 Skills & Tools
+
+| Category | Skills |
+|---|---|
+| **Analytics** | Data Analysis · KPI Reporting · Operational Analytics · Customer Analytics · Trend Analysis · Engagement Analytics · Data Storytelling |
+| **Dashboard Tools** | Microsoft Excel · Pivot Tables · Power Query · Dashboard Design · Data Visualization |
+| **Productivity** | Microsoft Word · Outlook · PowerPoint · Microsoft Office Suite |
+| **Languages** | English (Fluent) · French (Fluent) |
+
+---
+
+## 📁 Featured Projects
+
+---
+
+### 1. 🏦 Wells Fargo Non-Insurance Annuity Customer Analysis
+
+![Wells Fargo Dashboard](assets/WELLS_FARGO_Consulting_Dashboard_.png)
+
+**Overview:** Analyzed a comprehensive Wells Fargo customer dataset to uncover behavioral patterns, financial profiles, and demographic characteristics associated with non-insurance annuity users — delivering management-level intelligence to support financial product strategy.
+
+**Business Problem:** Distinguish insured vs. non-insured customer segments and identify behavioral, demographic, and financial indicators that define each group.
+
+**Dataset Highlights:**
+- 32,264 total customer records with 48 financial and demographic variables
+- Variables include: account age, credit score, income, ATM/POS usage, savings balance, mortgage data, home ownership, and geographic location (Rural / Suburban / Urban)
+
+**Key Findings:**
+
+| Insight | Detail |
+|---|---|
+| **Non-insurance majority** | 21,089 (65.36%) of customers are non-insurance users |
+| **Local customer base** | 96% of non-users live in the area; only 1.45% hold investment savings accounts |
+| **Credit score profile** | 74.75% rated "Good" · 19.11% "Poor" · 6.14% "Excellent" |
+| **Calling behavior** | 27,649 customers (vast majority) rarely call — low engagement |
+| **Average customer age** | 47.9 years for non-insured customers (std dev: 14.1 yrs) |
+| **Homeownership split** | 14,484 non-insurance customers are homeowners vs. 17,779 non-homeowners |
+| **Geographic distribution** | ~40% Urban · ~36% Suburban · ~25% Rural |
+| **Behavior frequency** | 54% call "Often" · 35% "Sometimes" · 11% "Not Really" |
+
+**Skills Demonstrated:** Customer Analytics · Financial Data Analysis · Segmentation · KPI Reporting · Dashboard Development · Data Storytelling
+
+📂 [View Project Files](./Wells-Fargo-Customer-Analysis)
+
+---
+
+### 2. 🎓 CBU Career Center — Fall 2025 Appointment Analytics Dashboard
+
+![Career Center Dashboard](assets/Dashborad_1.png)
+
+> Supporting pivot table analysis:
+
+![Supporting Pivot](assets/supporting_pivot_table_for_D1.png)
+
+**Overview:** Designed and developed an operational Excel dashboard analyzing all student appointment activity, service utilization, and counselor performance across CBU's Career Center during Fall 2025 (August–December 2025).
+
+**Business Problem:** The Career Center lacked a centralized view of appointment trends, service demand, and completion rates. This dashboard gives leadership real-time visibility into operations to improve staffing, resource allocation, and student support strategies.
+
+**Dataset:** 2,212 appointment records · 161 unique student majors · 5 counselors tracked · 5-month period
+
+**Key Findings:**
+
+| Metric | Value |
+|---|---|
+| **Total Appointments** | 2,212 |
+| **Unique Majors Served** | 161 |
+| **Appointment Completion Rate** | **93%** |
+| **Peak Month** | October 2025 (~800 appointments) |
+| **Top Service: In-Person Mock Interview** | 441 appointments |
+| **Top Service: Resume Review – In Person** | 424 appointments |
+| **Top Service: Virtual Mock Interview** | 330 appointments |
+| **LinkedIn Headshot (Iris Booth)** | 275 appointments |
+| **Top Class Year** | Seniors (319) · Masters (641) |
+| **Top Major Category** | Accounting · Biomedical Engineering · Computer Science |
+
+**Service Breakdown (Full):**
+
+| Service Type | Count |
+|---|---|
+| IN PERSON Mock Interview | 441 |
+| Resume Review – In Person | 424 |
+| Virtual Mock Interview | 330 |
+| Resume Review – Virtual | 166 |
+| LinkedIn Headshot Using Iris Booth | 275 |
+| LinkedIn Profile Review – In Person | 156 |
+| Cover Letter Review – In Person | 158 |
+| Major, Internship & Career Guidance – In Person | 63 |
+| Major, Internship & Career Guidance – Virtual | 61 |
+| Cover Letter Review – Virtual | 29 |
+| LinkedIn Profile Review – Virtual | 37 |
+| Wardrobe Closet Rental | 59 |
+| Peer Guidance – In Person | 3 |
+| Freshman First-Stop (In Person + Virtual) | 10 |
+
+**Skills Demonstrated:** Operational Analytics · KPI Dashboard Design · Service Utilization Analysis · Trend Reporting · Excel Pivot Tables & Power Query
+
+📂 [View Project Files](./Career-Center-Appointment-Analytics)
+
+---
+
+### 3. 🤝 CBU Career Fair Engagement & Participation Dashboard — 2025–2026
+
+![Career Fair Dashboard](assets/Dashborad_2.png)
+
+> Supporting pivot table analysis:
+
+![Supporting Pivot 2](assets/supporting_pivot_table_for_D2.png)
+
+**Overview:** Built a multi-dimensional business intelligence dashboard analyzing student attendance, unique vs. repeat participation patterns, college-level engagement, and career liaison performance across all 8 CBU career fairs during the 2025–2026 academic year.
+
+**Business Problem:** Understand which fairs and colleges drive the most student engagement, identify repeat participation trends, and evaluate career liaison effectiveness to improve future career fair planning and outreach.
+
+**Dataset:** 1,542 total check-ins · 8 career fairs · 10 academic colleges · 6 career counselors tracked
+
+**Key Findings:**
+
+| Metric | Value |
+|---|---|
+| **Total Fair Attendance** | 1,542 check-ins |
+| **Total Career Fairs** | 8 |
+| **Total Colleges Represented** | 10 |
+| **Students Attending 2+ Fairs** | 356 (repeat engagement) |
+| **Unique vs. Repeat Split** | 77% Unique · 23% Repeat |
+
+**Attendance by Fair:**
+
+| Fair | Attendance |
+|---|---|
+| Engineering Fair | **381** |
+| Spring Fair | 279 |
+| Education Fair | 242 |
+| Business Fair | 180 |
+| Healthcare Fair | 149 |
+| Fall Fair | 115 |
+| Architecture Fair | 112 |
+| Just In Time Fair | 84 |
+
+**Career Liaison Performance:**
+
+| Counselor | Total Attendance | Top Colleges |
+|---|---|---|
+| Danijel | 664 | School of Engineering (506) · CAVAAD (158) |
+| Ashley | 365 | School of Business (257) · Arts & Sciences (108) |
+| Ladonna | 204 | School of Education (198) · Performing Arts (6) |
+| Erick | 131 | School of Nursing (112) · Christian Ministries (19) |
+| Lindsay | 90 | School of Health Science (90) |
+| Elizabeth | 85 | Behavioral & Social Sciences (85) |
+
+**Skills Demonstrated:** Engagement Analytics · Comparative Reporting · Attendance Trend Analysis · KPI Dashboard Development · Business Intelligence · Career Liaison Performance Tracking
+
+📂 [View Project Files](./Career-Fair-Engagement-Analysis)
+
+---
+
+## 🎓 Education
+
+**California Baptist University** — Riverside, CA
+
+🎓 **Master of Business Analytics** *(Expected August 2026)*
+- Concentration: Data Analytics
+
+🎓 **Bachelor of Science in Marketing** *(May 2024)*
+- Concentration: Sport Marketing
+
+**Riverside Community College** — Riverside, CA
+
+🎓 **Associate of Science in Business Administration** *(June 2021)*
+🎓 **Associate of Arts in Administration and Information Systems** *(June 2021)*
+
+---
+
+## 💼 Work Experience
+
+### 🏫 Career Ambassador — California Baptist University *(Sep 2025 – Present)*
+- Support students with career readiness and professional development
+- Use Microsoft Excel and Word to track data, prepare reports, and build career resources
+- Oversee front desk operations and maintain a professional, welcoming environment
+
+### 🧠 Behavior Technician — Behavior Frontiers *(Jan 2024 – Jun 2025)*
+- Analyzed client progress data and applied reinforcement strategies to improve learning outcomes
+- Delivered behavior interventions using ISO and RR methods, achieving 80% accuracy in consecutive sessions
+
+### 📦 Human Resources Specialist — Amazon *(Oct 2021 – Aug 2022)*
+- Oversaw employee attendance and payroll records for accuracy and compliance
+- Resolved HR and payroll inquiries, improving employee satisfaction and workplace efficiency
+
+### 📐 Statistics Tutor — Riverside City College *(Sep 2019 – Jun 2020)*
+- Developed individualized lesson plans for 10+ students, improving academic performance across the semester
+- Contributed to a 20% increase in overall test scores through targeted tutoring support
+
+---
+
+## 🌟 Leadership Experience
+
+**Student Senator** — Riverside City College
+- Advocated for student needs and represented peers in the college senate, improving student engagement
+
+**Social Media Manager** — International Club, Riverside City College
+- Created digital content that increased club awareness and attracted new members
+
+---
+
+## 📬 Contact
+
+| | |
+|---|---|
+| 🔗 **LinkedIn** | [linkedin.com/in/joseph-muganza](https://www.linkedin.com/in/joseph-muganza) |
+| 📧 **Email** | [josephmuganza2@yahoo.com](mailto:josephmuganza2@yahoo.com) |
+| 📞 **Phone** | (951) 333-8336 |
+| 📍 **Location** | Riverside, California |
+
+---
+
+<div align="center">
+
+*All dashboards were built in Microsoft Excel using Pivot Tables, Power Query, and custom chart design.*
+*Data sourced from California Baptist University Career Center (Handshake) and Wells Fargo customer datasets.*
+
+</div>
