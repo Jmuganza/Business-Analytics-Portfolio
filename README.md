@@ -70,17 +70,17 @@ I combine analytical precision with clear business communication, developed thro
 
 **Skills Demonstrated:** Customer Analytics · Financial Data Analysis · Segmentation · KPI Reporting · Dashboard Development · Data Storytelling
 
-📂 [View Project Files](./Wellsfargo.xlsx)
+📂 [View Project Files](assets/Wellsfargo.xlsx)
 
 ---
 
 ### 2. 🎓 CBU Career Center — Fall 2025 Appointment Analytics Dashboard
 
-![Career Center Dashboard](assets/Dashborad2.png)
+![Career Center Dashboard](assets/CBUdashboard1.png)
 
 > Supporting pivot table analysis:
 
-![Supporting Pivot](assets/D3.png)
+![Supporting Pivot](assets/Project2.png)
 
 **Overview:** Designed and developed an operational Excel dashboard analyzing all student appointment activity, service utilization, and counselor performance across CBU's Career Center during Fall 2025 (August–December 2025).
 
