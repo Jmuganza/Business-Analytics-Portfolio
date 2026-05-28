@@ -124,17 +124,17 @@ I combine analytical precision with clear business communication, developed thro
 
 **Skills Demonstrated:** Operational Analytics · KPI Dashboard Design · Service Utilization Analysis · Trend Reporting · Excel Pivot Tables & Power Query
 
-📂 [View Project Files](./Career-Center-Appointment-Analytics)
+📂 [View Project Files](assets/CBUproject1.xlsx)
 
 ---
 
 ### 3. 🤝 CBU Career Fair Engagement & Participation Dashboard — 2025–2026
 
-![Career Fair Dashboard](assets/Dashborad3.png)
+![Career Fair Dashboard](assets/CBUdashboard2.png)
 
 > Supporting pivot table analysis:
 
-![Supporting Pivot 2](assets/D2.png)
+![Supporting Pivot 2](assets/Project2.png)
 
 **Overview:** Built a multi-dimensional business intelligence dashboard analyzing student attendance, unique vs. repeat participation patterns, college-level engagement, and career liaison performance across all 8 CBU career fairs during the 2025–2026 academic year.
 
@@ -178,7 +178,7 @@ I combine analytical precision with clear business communication, developed thro
 
 **Skills Demonstrated:** Engagement Analytics · Comparative Reporting · Attendance Trend Analysis · KPI Dashboard Development · Business Intelligence · Career Liaison Performance Tracking
 
-📂 [View Project Files](./Career-Fair-Engagement-Analysis)
+📂 [View Project Files](assets/CBUproject2.xlsx)
 
 ---
 
