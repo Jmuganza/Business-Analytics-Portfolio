@@ -182,54 +182,6 @@ I combine analytical precision with clear business communication, developed thro
 
 ---
 
-## 🎓 Education
-
-**California Baptist University** — Riverside, CA
-
-🎓 **Master of Business Analytics** *(Expected August 2026)*
-- Concentration: Data Analytics
-
-🎓 **Bachelor of Science in Marketing** *(May 2024)*
-- Concentration: Sport Marketing
-
-**Riverside Community College** — Riverside, CA
-
-🎓 **Associate of Science in Business Administration** *(June 2021)*
-🎓 **Associate of Arts in Administration and Information Systems** *(June 2021)*
-
----
-
-## 💼 Work Experience
-
-### 🏫 Career Ambassador — California Baptist University *(Sep 2025 – Present)*
-- Support students with career readiness and professional development
-- Use Microsoft Excel and Word to track data, prepare reports, and build career resources
-- Oversee front desk operations and maintain a professional, welcoming environment
-
-### 🧠 Behavior Technician — Behavior Frontiers *(Jan 2024 – Jun 2025)*
-- Analyzed client progress data and applied reinforcement strategies to improve learning outcomes
-- Delivered behavior interventions using ISO and RR methods, achieving 80% accuracy in consecutive sessions
-
-### 📦 Human Resources Specialist — Amazon *(Oct 2021 – Aug 2022)*
-- Oversaw employee attendance and payroll records for accuracy and compliance
-- Resolved HR and payroll inquiries, improving employee satisfaction and workplace efficiency
-
-### 📐 Statistics Tutor — Riverside City College *(Sep 2019 – Jun 2020)*
-- Developed individualized lesson plans for 10+ students, improving academic performance across the semester
-- Contributed to a 20% increase in overall test scores through targeted tutoring support
-
----
-
-## 🌟 Leadership Experience
-
-**Student Senator** — Riverside City College
-- Advocated for student needs and represented peers in the college senate, improving student engagement
-
-**Social Media Manager** — International Club, Riverside City College
-- Created digital content that increased club awareness and attracted new members
-
----
-
 ## 📬 Contact
 
 | | |
