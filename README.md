@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Portfolio photo.jpeg" width="160" style="border-radius: 50%;" alt="Joseph Muganza"/>
+<img src="assets/Portfolio.jpeg" width="160" style="border-radius: 50%;" alt="Joseph Muganza"/>
 
 # Joseph Muganza
 ### Business Analytics | Data Storytelling | Dashboard Development
