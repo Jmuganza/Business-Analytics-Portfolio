@@ -45,7 +45,7 @@ I combine analytical precision with clear business communication, developed thro
 
 ### 1. 🏦 Wells Fargo Non-Insurance Annuity Customer Analysis
 
-![Wells Fargo Dashboard](assets/Dasboard1.png)
+![Wells Fargo Dashboard](Wellsfargo.png)
 
 **Overview:** Analyzed a comprehensive Wells Fargo customer dataset to uncover behavioral patterns, financial profiles, and demographic characteristics associated with non-insurance annuity users — delivering management-level intelligence to support financial product strategy.
 
