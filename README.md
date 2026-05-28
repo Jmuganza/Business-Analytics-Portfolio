@@ -80,7 +80,7 @@ I combine analytical precision with clear business communication, developed thro
 
 > Supporting pivot table analysis:
 
-![Supporting Pivot](assets/supporting_pivot_table_for_D1.png)
+![Supporting Pivot](assets/D2.png)
 
 **Overview:** Designed and developed an operational Excel dashboard analyzing all student appointment activity, service utilization, and counselor performance across CBU's Career Center during Fall 2025 (August–December 2025).
 
@@ -130,11 +130,11 @@ I combine analytical precision with clear business communication, developed thro
 
 ### 3. 🤝 CBU Career Fair Engagement & Participation Dashboard — 2025–2026
 
-![Career Fair Dashboard](assets/Dashborad_2.png)
+![Career Fair Dashboard](assets/Dashborad3.png)
 
 > Supporting pivot table analysis:
 
-![Supporting Pivot 2](assets/supporting_pivot_table_for_D2.png)
+![Supporting Pivot 2](assets/D3.png)
 
 **Overview:** Built a multi-dimensional business intelligence dashboard analyzing student attendance, unique vs. repeat participation patterns, college-level engagement, and career liaison performance across all 8 CBU career fairs during the 2025–2026 academic year.
 
