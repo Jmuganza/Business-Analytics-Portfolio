@@ -3,7 +3,7 @@
 
 *Welcome to my Data Analytics Portfolio, where data-driven insights turn complex information into meaningful business decisions.*
 
-  ## Excel Projects
+## Excel Projects
 
 ### 1. 🏦 Wells Fargo Non-Insurance Annuity Customer Analysis
 
