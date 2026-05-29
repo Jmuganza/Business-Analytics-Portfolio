@@ -35,7 +35,7 @@
 
 **Skills Demonstrated:** Customer Analytics · Financial Data Analysis · Segmentation · KPI Reporting · Dashboard Development · Data Storytelling
 
-📄 [View Full Project Documentation](Business-Analytics-Portfolio/Excel_Project_Wells_Fargo/Project_Documentation.md)
+📄 [Wells Fargo Data Analysis Insights](Excel_Project_Wells_Fargo/Project_Documentation.md)
 
 ---
 
