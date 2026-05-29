@@ -44,6 +44,10 @@ The dataset contains customer demographic, financial, and behavioral information
 | Insurance Status | Insurance vs Non-Insurance |
 | Savings Balance | Customer savings account balance |
 
+<p align="center">
+  <img src="image/W2.png" width="1000">
+</p>
+
 ---
 
 ## Tools & Technologies
@@ -76,7 +80,9 @@ The analysis focused on:
 - Customer Calling Behavior
 - Geographic Customer Distribution
 
-![image](W1.png)
+<p align="center">
+  <img src="image/W1.png" width="1000">
+</p>
 
 ### 3. Dashboard Development
 
@@ -169,15 +175,3 @@ This project transforms raw customer data into actionable insights that support 
 By leveraging Microsoft Excel and dashboard reporting techniques, this project successfully identified key customer trends, demographic patterns, and financial characteristics that can support customer targeting, product strategy, and data-driven decision-making.
 
 ---
-
-## Author
-
-### Joseph Muganza
-
-Business Analytics | Data Analytics | Business Intelligence
-
-**LinkedIn:** Add Your LinkedIn Link
-
-**Email:** Add Your Professional Email
-
-**Portfolio:** Add Your Portfolio Website
