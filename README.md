@@ -6,8 +6,6 @@
 
 ## Excel Projects
 
----
-
 ### 1. 🏦 Wells Fargo Non-Insurance Annuity Customer Analysis
 
 ![Wells Fargo Dashboard](assets/Wellsfargo.png)
@@ -146,18 +144,6 @@
 📂 [View Project Files](assets/CBUproject2.xlsx)
 
 ---
-
-## 📬 Contact
-
-| | |
-|---|---|
-| 🔗 **LinkedIn** | [linkedin.com/in/joseph-muganza](https://www.linkedin.com/in/joseph-muganza) |
-| 📧 **Email** | [josephmuganza2@yahoo.com](mailto:josephmuganza2@yahoo.com) |
-| 📞 **Phone** | (951) 333-8336 |
-| 📍 **Location** | Riverside, California |
-
----
-
 <div align="center">
 
 *All dashboards were built in Microsoft Excel using Pivot Tables, Power Query, and custom chart design.*
