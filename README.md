@@ -35,7 +35,7 @@
 
 **Skills Demonstrated:** Customer Analytics · Financial Data Analysis · Segmentation · KPI Reporting · Dashboard Development · Data Storytelling
 
-📄 [Wells Fargo Data Analysis Insights](Excel_Project_Wells_Fargo/Project_Documentation.md)
+📄 [Project Insights](Excel_Project_Wells_Fargo/Project_Documentation.md)
 
 ---
 
@@ -85,7 +85,7 @@
 
 **Skills Demonstrated:** Operational Analytics · KPI Dashboard Design · Service Utilization Analysis · Trend Reporting · Excel Pivot Tables & Power Query
 
-📂 [View Project Files](assets/CBUproject1.xlsx)
+📄 [Project Insights](Excel_Project_CBU_Appointment/Project_Documentation.md)
 
 ---
 
@@ -135,7 +135,7 @@
 
 **Skills Demonstrated:** Engagement Analytics · Comparative Reporting · Attendance Trend Analysis · KPI Dashboard Development · Business Intelligence · Career Liaison Performance Tracking
 
-📂 [View Project Files](assets/CBUproject2.xlsx)
+📄 [Project Insights](Excel_Project_CBU_Fair/Project_Documentation.md)
 
 ---
 <div align="center">
