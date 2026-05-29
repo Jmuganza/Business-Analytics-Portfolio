@@ -1,4 +1,4 @@
-<h1 align="center">Joseph Muganza Data Analytic Projects</h1>
+<h1 align="center">Joseph Muganza's Business Analytics Portfolio</h1>
 
 <img src="https://www.refontelearning.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fprod-refonteinfini-bucket%2Frefontelearning%2Fblogs%2F1742982150025_data-analysis-skills-duties-responsibilities.webp&w=3840&q=75" width="1200">
 
