@@ -76,6 +76,8 @@ The analysis focused on:
 - Customer Calling Behavior
 - Geographic Customer Distribution
 
+![image](W1.png)
+
 ### 3. Dashboard Development
 
 An executive dashboard was created to summarize key customer metrics and provide management-level insights.
