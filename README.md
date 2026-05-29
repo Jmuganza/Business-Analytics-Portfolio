@@ -1,4 +1,4 @@
-# Data Analytic Projects
+# Joseph Muganza Data Analytic Projects
 
 ![image](https://www.refontelearning.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fprod-refonteinfini-bucket%2Frefontelearning%2Fblogs%2F1742982150025_data-analysis-skills-duties-responsibilities.webp&w=3840&q=75)
 
@@ -40,10 +40,6 @@
 ### 2. 🎓 CBU Career Center — Fall 2025 Appointment Analytics Dashboard
 
 ![Career Center Dashboard](assets/CBUdashboard1.png)
-
-> Supporting pivot table analysis:
-
-![Supporting Pivot](assets/Project2.png)
 
 **Overview:** Designed and developed an operational Excel dashboard analyzing all student appointment activity, service utilization, and counselor performance across CBU's Career Center during Fall 2025 (August–December 2025).
 
@@ -94,10 +90,6 @@
 ### 3. 🤝 CBU Career Fair Engagement & Participation Dashboard — 2025–2026
 
 ![Career Fair Dashboard](assets/CBUdashboard2.png)
-
-> Supporting pivot table analysis:
-
-![Supporting Pivot 2](assets/Project2.png)
 
 **Overview:** Built a multi-dimensional business intelligence dashboard analyzing student attendance, unique vs. repeat participation patterns, college-level engagement, and career liaison performance across all 8 CBU career fairs during the 2025–2026 academic year.
 
