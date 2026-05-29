@@ -2,7 +2,9 @@
 
 <img src="https://www.refontelearning.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fprod-refonteinfini-bucket%2Frefontelearning%2Fblogs%2F1742982150025_data-analysis-skills-duties-responsibilities.webp&w=3840&q=75" width="1200">
 
-**Data Analytics Repo:** Explore a portfolio of data analytics projects that transform raw data into actionable insights. Discover how patterns, trends, and key metrics drive smarter decisions and create measurable business value.
+<p align="center">
+  <em>Welcome to my Data Analytics Portfolio, where data-driven insights turn complex information into meaningful business decisions..</em>
+</p>
 
 ## Excel Projects
 
