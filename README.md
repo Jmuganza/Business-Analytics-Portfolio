@@ -1,7 +1,7 @@
-# Data Analytic Projects
-![image](https://learn.g2.com/hubfs/Imported%20sitepage%20images/1ZB5giUShe0gw9a6L69qAgsd7wKTQ60ZRoJC5Xq3BIXS517sL6i6mnkAN9khqnaIGzE6FASAusRr7w=w1439-h786.png)
+# Joseph Muganza's Business Analytics Portfolio
+<img src="assets/Joseph.png" alt="image" width="250">
 
-**Data Analytics Repo:** Dive into the world of insights with our collection of projects! Uncover patterns, trends, and make data-driven decisions.
+*Welcome to my Data Analytics Portfolio, where data-driven insights turn complex information into meaningful business decisions.*
 
   ## Excel Projects
 
