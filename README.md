@@ -3,17 +3,6 @@
 
 **Data Analytics Repo:** Dive into the world of insights with our collection of projects! Uncover patterns, trends, and make data-driven decisions.
 
-<h1 align="center">
-
-Joseph Muganza's Business Analytics Portfolio
-
-
-<img src="assets/Joseph.png" alt="Joseph Muganza" width="350"/>
-
-<em>Welcome to my Data Analytics Portfolio, where data-driven insights turn complex information into meaningful business decisions..</em>
-
-</p>
-
   ## Excel Projects
 
 ### 1. 🏦 Wells Fargo Non-Insurance Annuity Customer Analysis
