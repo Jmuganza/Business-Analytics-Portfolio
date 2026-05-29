@@ -1,7 +1,6 @@
 # Joseph Muganza's Business Analytics Portfolio
-<p align="center">
-  <img src="assets/Joseph.png" alt="Joseph Muganza" width="350">
-</p>
+
+<img src="assets/Joseph.png" alt="image" width="350"> 
 
 *Welcome to my Data Analytics Portfolio, where data-driven insights turn complex information into meaningful business decisions.*
 
