@@ -1,45 +1,10 @@
-<div align="center">
+# Data Analytic Projects
 
-<img src="assets/Portfolio.jpeg" width="160" style="border-radius: 50%;" alt="Joseph Muganza"/>
+![image](https://www.refontelearning.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fprod-refonteinfini-bucket%2Frefontelearning%2Fblogs%2F1742982150025_data-analysis-skills-duties-responsibilities.webp&w=3840&q=75)
 
-# Joseph Muganza
-### Business Analytics | Data Storytelling | Dashboard Development
+**Data Analytics Repo:** Explore a portfolio of data analytics projects that transform raw data into actionable insights. Discover how patterns, trends, and key metrics drive smarter decisions and create measurable business value.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseph--muganza-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-muganza)
-[![Email](https://img.shields.io/badge/Email-josephmuganza2%40yahoo.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:josephmuganza2@yahoo.com)
-[![Phone](https://img.shields.io/badge/Phone-(951)%20333--8336-25D366?style=flat&logo=whatsapp&logoColor=white)]()
-[![Location](https://img.shields.io/badge/Location-Riverside%2C%20CA-34A853?style=flat&logo=googlemaps&logoColor=white)]()
-
-</div>
-
----
-
-## 👤 About Me
-
-I'm a Master of Business Analytics candidate at California Baptist University with hands-on experience transforming raw operational data into executive-ready dashboards and actionable business insights. My work spans customer behavior analysis, career services operational reporting, and student engagement intelligence — all built in Microsoft Excel using Pivot Tables, Power Query, and custom chart design.
-
-I combine analytical precision with clear business communication, developed through real-world roles at Amazon, Behavior Frontiers, and CBU's Career Center. My goal is to bridge the gap between data and decision-making.
-
-**Portfolio focus areas:**
-- 📊 KPI Dashboard Development
-- 👥 Customer & Student Behavior Analytics
-- 📈 Operational & Engagement Reporting
-- 🗺️ Data Storytelling & Business Intelligence
-
----
-
-## 🛠 Skills & Tools
-
-| Category | Skills |
-|---|---|
-| **Analytics** | Data Analysis · KPI Reporting · Operational Analytics · Customer Analytics · Trend Analysis · Engagement Analytics · Data Storytelling |
-| **Dashboard Tools** | Microsoft Excel · Pivot Tables · Power Query · Dashboard Design · Data Visualization |
-| **Productivity** | Microsoft Word · Outlook · PowerPoint · Microsoft Office Suite |
-| **Languages** | English (Fluent) · French (Fluent) |
-
----
-
-## 📁 Featured Projects
+## Excel Projects
 
 ---
 
